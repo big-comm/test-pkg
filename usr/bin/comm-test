@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
 
 echo "Message test package Community"
+
+echo "Test new package 01"
+echo "Test new package 02"
+echo "Test new package 03"
