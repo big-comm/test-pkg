@@ -18,6 +18,7 @@ echo "Test new commit 13"
 echo "Test new package 14"
 echo "Test new package 15"
 echo "Test new package 16"
+echo "Test new package 17"
 
 
 Partially worked, now on split the terminal respect size of split, but can't show 2 terminal in same window, on select one split show terminal for this part and hide to another part, if the 2 parts have terminal, need show same
