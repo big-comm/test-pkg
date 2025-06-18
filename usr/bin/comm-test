@@ -19,8 +19,7 @@ echo "Test new package 14"
 echo "Test new package 15"
 echo "Test new package 16"
 echo "Test new package 17"
+echo "Test new package 18 - Narayan"
 
 
-Partially worked, now on split the terminal respect size of split, but can't show 2 terminal in same window, on select one split show terminal for this part and hide to another part, if the 2 parts have terminal, need show same
-
-Another problem, now on close split only remove part of terminal and file manager, but continue with blank space on all part usef for this file manager and terminal
+#Tá aí Talizinho do nosso coração.
