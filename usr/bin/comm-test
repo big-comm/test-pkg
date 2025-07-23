@@ -19,5 +19,5 @@ echo "Test new package 14"
 echo "Test new package 15"
 echo "Test new package 16"
 echo "Test new package 16.1"
-echo "Test new package 17 - branch"
-
+echo "Test 17 - branch"
+echo "Test 18 - branch pull"
