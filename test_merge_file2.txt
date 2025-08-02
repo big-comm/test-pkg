@@ -1,2 +1,0 @@
-Arquivo de teste criado em 2025-07-23 20:52:17.387688
-Este arquivo será usado para testar merge automático
