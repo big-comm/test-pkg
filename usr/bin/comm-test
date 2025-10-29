@@ -24,5 +24,6 @@ echo "Test 18 - branch pull"
 echo "Test emojis in commit"
 echo "Test emojis in commit"
 echo "Test emojis in commit"
+echo "Test emojis in commit"
 
-APP_VERSION = "1.1.1"
+#APP_VERSION = "1.2.0"
