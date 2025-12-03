@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+APP_VERSION = "1.2.5"
+
 echo "Message test package Community"
 
 echo "Test new package 01"
@@ -26,10 +28,5 @@ echo "Test emojis in commit"
 echo "Test emojis in commit"
 echo "Test emojis in commit"
 
-<<<<<<< Updated upstream
-APP_VERSION = "1.2.2"
-=======
-APP_VERSION = "1.2.4"
-
-echo "Testeando  versão nova cli"
->>>>>>> Stashed changes
+echo "Testeando versão nova cli"
+echo  "Implementação nova: teste 2"
