@@ -26,4 +26,10 @@ echo "Test emojis in commit"
 echo "Test emojis in commit"
 echo "Test emojis in commit"
 
-APP_VERSION = "1.2.1"
+<<<<<<< Updated upstream
+APP_VERSION = "1.2.2"
+=======
+APP_VERSION = "1.2.4"
+
+echo "Testeando  versão nova cli"
+>>>>>>> Stashed changes
