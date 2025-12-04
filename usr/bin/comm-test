@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+APP_VERSION = "1.3.0"
+
 echo "Message test package Community"
 
 echo "Test new package 01"
@@ -26,4 +28,6 @@ echo "Test emojis in commit"
 echo "Test emojis in commit"
 echo "Test emojis in commit"
 
-APP_VERSION = "1.2.4"
+echo "Testeando versão nova cli"
+echo  "Implementação nova: teste 2"
+echo "Fase 2A e 2B concluida"
