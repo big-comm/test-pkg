@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-APP_VERSION = "1.4.0"
+APP_VERSION = "1.4.1"
 
 echo "Message test package Community"
 
@@ -37,3 +37,4 @@ echo "Teste criar pacote commmit"
 echo "Teste para correção de PR automático"
 echo "commit -F"
 echo "commit GUI -F"
+echo "commit multilinha gerar pacote"
