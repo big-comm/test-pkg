@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-APP_VERSION = "1.4.1"
+APP_VERSION = "1.4.2"
 
 echo "Message test package Community"
 
@@ -38,3 +38,4 @@ echo "Teste para correção de PR automático"
 echo "commit -F"
 echo "commit GUI -F"
 echo "commit multilinha gerar pacote"
+echo "Refatoração do gitrepo 01"
